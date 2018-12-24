@@ -1,0 +1,1 @@
+<header-component :userinfo="{{ json_encode($user??[]) }}"></header-component>
